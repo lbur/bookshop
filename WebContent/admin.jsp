@@ -9,7 +9,7 @@
 <link rel="stylesheet" type="text/css" href="./style/admin.css">
 <link rel="shortcut icon" type="image/x-icon" href="./style/images/icon.ico">
 <script type="text/javascript" src="./jquery/jquery-1.11.3.min.js"></script>
-<title>瞄书网后台管理系统</title>
+<title>瞄书网后台管理系统v1.0</title>
 <style type="text/css">
 body{min-width: 960px;max-width: 1200px;margin: auto;background: #e9e7e7;}
 @media screen and(min-width: 960)
